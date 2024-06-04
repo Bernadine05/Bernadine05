@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am a Data enthusiast who has gone through a data analytics program that helped me acquire essential skills needed in my new field. I have projects here that help develop my skills. I am currently learning Python for data analysis.
+I am a Data enthusiast who has undergone a data analytics program that helped me acquire essential skills in my new field. I have projects here that help develop my skills. I am currently learning Python for data analysis.
 
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on data analysis projects
