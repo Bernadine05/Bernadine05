@@ -6,7 +6,7 @@ Data Analyst
 
 I am a Data enthusiast who has undergone a data analytics program that helped me acquire essential skills in my new field. I have projects here that help develop my skills. I am currently learning Python for data analysis.
 
-* 🧠  I'm learning Python
+* 🧠  I love cleaning data with SQL, Excel, and Python, extracting insights that inform decisions
 * 🤝  I'm open to collaborating on data analysis projects
 * ⚡  I am a designer fascinated by simplistic but informative designs that are user-friendly
 
